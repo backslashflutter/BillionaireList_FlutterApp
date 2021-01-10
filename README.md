@@ -4,8 +4,7 @@ Flutter App that fetches the World's Billionaire List using API
 
 
 
-![App UI](appImages/
-fetchBillionaireList.jpg)
+![App UI](appImages/fetchBillionaireList.jpg)
  
 
 
