@@ -1,0 +1,4 @@
+#Sun Jan 10 15:54:52 IST 2021
+base.0=/Users/shivanshsingh/Documents/BillionaireList/billionaire_list/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
